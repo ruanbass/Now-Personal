@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="387e4a88def451c34bb636d7969cd1c9033a4b9f">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialdrawer-4.6.3_18c7da971889324379931a223c324a93b4fe996e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a66c1ce70327a2fcc3178aa3a4549d50505639a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_fadc0d84d69e6e1c3f8932e92b6e45329ceb26c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.viewpagerindicator-library-2.4.1_cb599867d736d4ad8fcdc0b159a63e628dcc2158\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0f777bb66de2daba2fd8b9ba2afe69adef19b5ed">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cdcb50312ef148820bd29db75a1c803d48f08ee9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_169579dd282e4767b4478350f2b40c067ec88197\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8362fa50ff02fb4630e7d9cf0536e27db0b05f7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_46d5ed5264973825aa480a9493200fb42981d349\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\libs\ormlite_core_4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a8b276da6dada8141f614d3feba25a0e8589db7">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite_core_4_3481e41f030afc77ad7606713fec1ec7360a00f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\libs\ormlite_android_4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecfae85e17f2472852fa8298952f9d52f6a6bfa4">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite_android_4_bfb25335e8c79501adb3f8aed3cbba5cf48f9e10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.5.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="25e8af11fff99ad02250f52f2436e25f60cc1bbe">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-0.5.1_217c748309990b8df89d72b0ea178dc14903417b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c4ece4eb5be2a3f1c7e799c52eb952673ebf6c7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_40a46774fffc0be1b6a5f5ab6495c3cf9190fb56\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ef5fb87bb1b632d7843294019eafb00ad443330">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.5.3_b03832b1f5f6fd2135bfc8a3a69ae12404619ec9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_ccdbc4b2779fd2497d684d168fc0a267c812a04b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_0db61d54045abbe7132e213392a2ab21277d2ddf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9369f636b354e2d72e48b4228f1cf8d7c7e247b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_99dbb204ab7627b1ccb88f0f8f84bd3ad85c5248\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_089f4eaf160ade844e96cef334e9cf71956ef2d2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_eb9198c8061c65454e4a16eb840f1381d66280a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_853e0086cbc1b96c0209496c816d4b6476df7381\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a9b23453573365b3a0d74cd493251266052aaf3">
+        <dex dex="C:\Users\ruanm\Desktop\NowPersonal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a89264126a56d858143418a577eb0063c3f085a\classes.dex" />
+    </item>
+
+</items>
